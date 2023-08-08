@@ -6,7 +6,7 @@ You can reach to Website with this url  : https://restaurantwebbsite.netlify.app
 
 Used technologies
 
-This site was created using CSS, HTML and Boostrap.
+This site was created using CSS, HTML and JS.
 
 Screenshot
 
