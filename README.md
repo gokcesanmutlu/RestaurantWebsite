@@ -10,4 +10,4 @@ This site was created using CSS, HTML and Boostrap.
 
 Screenshot
 
-! [](tour.mp4)
+! [](restsite.gif)
