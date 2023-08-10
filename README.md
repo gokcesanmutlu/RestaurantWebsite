@@ -20,6 +20,4 @@
 </body>
 </html>
 
-Screenshot
-
 ![reastaurantprojectgif](3Restaurant.gif)
