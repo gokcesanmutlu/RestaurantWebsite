@@ -10,4 +10,4 @@ This site was created using CSS, HTML and JS.
 
 Screenshot
 
-![reastaurantprojectgif](restgifson.gif)
+![reastaurantprojectgif](3Restaurant.gif)
