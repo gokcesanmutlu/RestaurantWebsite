@@ -4,7 +4,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>RestaurantWebsite - README</title>
 </head>
 <body>
     
