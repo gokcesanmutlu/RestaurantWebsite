@@ -15,7 +15,7 @@
     <li>JavaScript</li>
   </ul>
   <p> Additional library : Boostrap</p>
-  <p>You can reach to Website, when you are click <a href="https://restaurantwebbsite.netlify.app/">HERE</a>.</p>
+  <p>You can reach to Website, when you are click <a href="https://restaurantwebbsite.netlify.app">HERE</a>.</p>
 
 </body>
 </html>
